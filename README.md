@@ -30,4 +30,4 @@ Seorang pengembang web yang antusias dengan keahlian dalam berbagai teknologi we
 
 ---
 
-⭐️ Dari [Fahrizal Hariwira Winata](https://github.com/fahrizalhairiwawinata)
+⭐️ Dari [Fahrizal Hariwira Winata](https://github.com/FahrizalHW)
