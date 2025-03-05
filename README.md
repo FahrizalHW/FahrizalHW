@@ -14,7 +14,7 @@ Seorang pengembang web yang antusias dengan keahlian dalam berbagai teknologi we
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white)
 
 ## 🌟 Statistik GitHub
-![Statistik GitHub Saya](https://github-readme-stats.vercel.app/api?username=fahrizalhairiwawinata&show_icons=true&theme=radical)
+![Statistik GitHub Saya](https://github-readme-stats.vercel.app/api?username=FahrizalHWa&show_icons=true&theme=radical)
 
 ## 🔗 Hubungi Saya
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/TranscendA11)
@@ -26,7 +26,7 @@ Seorang pengembang web yang antusias dengan keahlian dalam berbagai teknologi we
 - 💡 Selalu ingin belajar hal baru
 
 ## 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahrizalhairiwawinata&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FahrizalHW&layout=compact&theme=radical)
 
 ---
 
