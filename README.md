@@ -1,7 +1,7 @@
 # 👋 Halo, saya Fahrizal Hariwira Winata!
 
 ## 🚀 Tentang Saya
-Seorang pengembang web yang antusias dengan keahlian dalam berbagai teknologi web dan pemrograman. Saya senang mengeksplorasi dan menciptakan solusi digital inovatif.
+Seorang pengembang website pemula yang memiliki  antusias dalam hal teknologi 
 
 ## 💻 Teknologi yang Saya Pelajari
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -21,11 +21,6 @@ Seorang pengembang web yang antusias dengan keahlian dalam berbagai teknologi we
 ## 🔗 Hubungi Saya
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/TranscendA11)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rzlwinata)
-
-## 🏆 Pencapaian
-- 🌐 Pengembang web berpengalaman
-- 🚀 Passion di bidang teknologi terbaru
-- 💡 Selalu ingin belajar hal baru
 
 ## 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FahrizalHW&layout=compact&theme=radical)
